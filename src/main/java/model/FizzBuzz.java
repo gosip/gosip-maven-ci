@@ -3,7 +3,7 @@ package model;
 public class FizzBuzz {
     public static String fizzBuzz(int n) {
         if (n % 15 == 0) {
-            return "model.FizzBuzz";
+            return "FizzBuzz";
         }
         if (n % 3 == 0) {
             return "Fizz";

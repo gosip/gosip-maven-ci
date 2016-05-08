@@ -18,7 +18,7 @@ public class FizzBuzzTest {
 
     @Test
     public void testFizzBuzz() {
-        assertEquals("model.FizzBuzz", FizzBuzz.fizzBuzz(15));
+        assertEquals("FizzBuzz", FizzBuzz.fizzBuzz(15));
     }
 
     @Test
