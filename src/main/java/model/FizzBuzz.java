@@ -1,7 +1,7 @@
 package model;
 
 public class FizzBuzz {
-    public static String fizzBuzz(int n) {
+    public String fizzBuzz(int n) {
         if (n % 15 == 0) {
             return "FizzBuzz";
         }
